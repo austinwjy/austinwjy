@@ -17,3 +17,5 @@ Here are some ideas to get you started:
 <h3>👨‍💻 Data Projects:</h3>
 
 [Time Series Analysis](https://github.com/austinwjy/time-series-analysis)
+
+https://github.com/austinwjy/canadian-federal-election
