@@ -1,7 +1,6 @@
 # Hello, I'm Austin 👋
-Data Analyst, Database Administrator
-
-
+Data Analyst and Database Administrator | Aspiring Data Scientist
+  
 ## 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) 
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat&logo=r&logoColor=white) 
@@ -11,7 +10,6 @@ Data Analyst, Database Administrator
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=flat&logo=pycharm&logoColor=black&color=black&labelColor=green)
 ![RStudio](https://img.shields.io/badge/RStudio-4285F4?style=flat&logo=rstudio&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=flat&logo=jupyter&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=flat&logo=openai&logoColor=white)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white) 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) 
@@ -31,6 +29,8 @@ Data Analyst, Database Administrator
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=Tableau&logoColor=white)
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=flat&logo=powerbi&logoColor=black) 
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=flat&logo=visual-studio&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=flat&logo=openai&logoColor=white)
+![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white) 
 ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=flat&logo=confluence&logoColor=white) 
 
@@ -39,16 +39,20 @@ Data Analyst, Database Administrator
 
 
 ## 👨‍💻 Data Projects:
+📊 [Hotel Booking Analysis](https://github.com/austinwjy/hotel-booking)
+- Descriptive, diagnostic, and prescriptive analysis with data modeling and data visualization for performance optimization.
 
-https://github.com/austinwjy/hotel-booking
+⚖ [Gender Fairness Analysis](https://github.com/austinwjy/gender-fairness)
+- Statistical evaluation of gender-based disparities in decision outcomes.
 
-[Time Series Analysis](https://github.com/austinwjy/time-series-analysis)
+🗳 [Canadian Federal Election Prediction](https://github.com/austinwjy/canadian-federal-election)
+- Predictive modeling using survey data and post-stratification techniques.
 
-https://github.com/austinwjy/canadian-federal-election
+⏱ [Time Series Analysis](https://github.com/austinwjy/time-series-analysis)
+- Forecasting time-based trends using ARIMA and other statistical models.
 
-https://github.com/austinwjy/gender-fairness
-
-https://github.com/austinwjy/factorial-experiment
+🧪 [Factorial Experiment Analysis](https://github.com/austinwjy/factorial-experiment) 
+- Designed experiments and statistical tests to evaluate factor effects on outcomes.
 
 
 ## 📊 GitHub Stats:
