@@ -37,7 +37,7 @@ Data Analyst and Database Administrator | Aspiring Data Scientist
 
 
 ## 👨‍💻 Data Projects:
-📊 [Hotel Booking Analysis](https://github.com/austinwjy/hotel-booking)
+📊 [Hotel Booking Database Design & Analytics](https://github.com/austinwjy/hotel-booking)
 - Descriptive, diagnostic, and prescriptive analysis with data modeling and data visualization for performance optimization.
 
 ⚖ [Gender Fairness Analysis](https://github.com/austinwjy/gender-fairness)
